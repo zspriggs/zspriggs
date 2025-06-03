@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **zspriggs/zspriggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I'm Zoë!
+🎓 I'm a master's student in Classical Studies with a passion for digital humanities and ancient languages.
+🧠 I'm especially interested in natural language processing, quantitative textual analysis, and educational tech.
+🔧 Python is my current go-to, but I have experience in C, C#, and Java.
+🧗🏻 In my free time, you'll probably find me building in Minecraft or climbing rocks.
