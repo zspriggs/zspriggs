@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Zoë!  
-🎓 I'm a master's student in Classical Studies with a passion for digital humanities and ancient languages.  
+👋 Hi, I'm Zoë!  (she/her)
+🎓 I'm a master's student in Digital Tools for Premodern Studies.
+🔭 I’m currently working on tools to help researchers without a coding background perform quantitative assessments of ancient texts.
 🧠 I'm especially interested in natural language processing, quantitative textual analysis, and educational tech.  
 🔧 Python is my current go-to, but I have experience in C, C#, and Java.  
-🧗🏻 In my free time, you'll probably find me building in Minecraft or climbing rocks.  
+🧗🏻 In my free time, you'll probably find me climbing rocks or playing Minecraft.  
 
